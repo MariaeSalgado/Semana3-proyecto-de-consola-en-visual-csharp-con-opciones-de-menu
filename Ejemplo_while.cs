@@ -8,5 +8,9 @@ namespace Semana_3
 {
     class Ejemplo_while
     {
+        public static void estructura_while()
+        {
+            System.Console.WriteLine("while externo");
+        }
     }
 }
